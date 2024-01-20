@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Ubuntu:wght@400;500;700&display=swap');
+
+h1,h2,h3,h4{
+    font-family: 'Ubuntu', sans-serif;
+    color: #45413e;
+}
+h1{
+    font-size: 56px;
+}
+h2{
+    font-size: 32px;
+}
+h3{
+    font-size: 26px;
+}
+a,p{
+    font-family: 'Roboto', sans-serif;
+    color: #45413e;
+    text-decoration: none;
+}
+
+
+
+.bgc-pink{
+    background-color: #f4cfc6;
+}
+
+
+
+.hero{
+    background-color: #f4cfc6;
+    padding: 50px 0;
+}
+.bandeau{
+    background-color: #45413e;
+    padding: 80px 0;
+}
+.bandeau p{
+    color: #fff;
+}
+footer{
+    background-color: #45413e;
+    color: #fff;
+}
+footer a, footer p{
+    color: #fff;
+}
+footer h3{
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.bouton-1{
+    padding: 12px 20px;
+    background-color: transparent;
+    border: #45413e 2px solid;
+    color: #45413e;
+    border-radius: 50px;
+}
+.bouton-2{
+    padding: 12px 20px;
+    border: #45413e 2px solid;
+    background-color: #45413e;
+    color: #fff;
+    border-radius: 50px;
+}
+.bouton-1:hover, .bouton-2:hover{
+    background-color: #DB7F67;
+    border: #DB7F67 2px solid;
+    color: #fff;
+}
